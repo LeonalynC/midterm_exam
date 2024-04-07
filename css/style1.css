@@ -1,0 +1,167 @@
+/* Update font styles */
+body {
+    font-family: 'Playfair Display', serif; /* Elegant serif font */
+}
+
+/* Update color scheme */
+.header_area {
+    background-color: #fceff2; /* Soft pink background for the header */
+}
+
+/* Update button styles */
+.book_btn a {
+    background-color: #ff4d6d; /* Pink button color */
+    color: #fff; /* White text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Add padding for better button appearance */
+    border-radius: 25px; /* Add border-radius for rounded corners */
+    text-transform: uppercase; /* Convert text to uppercase */
+    font-weight: bold; /* Make text bold */
+    transition: background-color 0.3s ease; /* Add transition for smoother hover effect */
+}
+
+.book_btn a:hover {
+    background-color: #ff80a0; /* Lighter pink on hover */
+}
+
+/* Update footer styles */
+.footer {
+    background-color: #fceff2; /* Soft pink background for the footer */
+    color: #666; /* Dark gray text color */
+    padding: 50px 0; /* Add padding for better spacing */
+    text-align: center; /* Center-align text */
+}
+
+/* Update social links */
+.socail_links ul li a {
+    color: #ff4d6d; /* Pink social icon color */
+    font-size: 20px; /* Increase icon size */
+    margin: 0 10px; /* Add margin for spacing between icons */
+    transition: color 0.3s ease; /* Add transition for smoother hover effect */
+}
+
+.socail_links ul li a:hover {
+    color: #ff80a0; /* Lighter pink on hover */
+}
+
+/* Update font styles */
+body {
+    font-family: 'Arial', sans-serif; /* Change font to a more standard sans-serif font */
+    background-color: #f9f7f7; /* Soft background color */
+}
+
+/* Update header styles */
+.header-area {
+    background-color: #ffe6e6; /* Light pink background for header */
+}
+
+.logo-img img {
+    max-width: 150px; /* Adjust logo size */
+}
+
+/* Update navigation styles */
+#navigation {
+    margin-top: 20px; /* Add some space between logo and navigation */
+}
+
+#navigation ul li a {
+    color: #5c5c5c; /* Dark gray text color */
+    font-weight: bold; /* Make text bold */
+    text-transform: uppercase; /* Convert text to uppercase */
+    padding: 10px 20px; /* Add padding to navigation links */
+}
+
+#navigation ul li a:hover {
+    color: #ff6bbc; /* Change text color on hover */
+}
+
+/* Update social links styles */
+.socail_links ul li a {
+    color: #5c5c5c; /* Dark gray social icon color */
+    font-size: 20px; /* Increase icon size */
+    margin: 0 10px; /* Add margin for spacing between icons */
+    transition: color 0.3s ease; /* Add transition for smoother hover effect */
+}
+
+.socail_links ul li a:hover {
+    color: #ff6bc1; /* Change social icon color on hover */
+}
+
+/* Update button styles */
+.book_btn a {
+    background-color: #ff6bbc; /* Pink button color */
+    color: #fff; /* White text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Add padding for better button appearance */
+    border-radius: 25px; /* Add border-radius for rounded corners */
+    text-transform: uppercase; /* Convert text to uppercase */
+    font-weight: bold; /* Make text bold */
+    transition: background-color 0.3s ease; /* Add transition for smoother hover effect */
+}
+
+.book_btn a:hover {
+    background-color: #ff8e8e; /* Lighter pink on hover */
+}
+
+/* Update footer styles */
+.footer {
+    background-color: #ffe6e6; /* Light pink background for footer */
+    color: #5c5c5c; /* Dark gray text color */
+    padding: 50px 0; /* Add padding for better spacing */
+    text-align: center; /* Center-align text */
+}
+
+/* Update footer links styles */
+.footer a {
+    color: #ff6b9c; /* Pink link color */
+    transition: color 0.3s ease; /* Add transition for smoother hover effect */
+}
+
+.footer a:hover {
+    color: #ff8e8e; /* Lighter pink on hover */
+}
+
+/* Add border to table */
+#orderedItemsTable {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px; /* Add margin-top for spacing */
+}
+
+/* Style table header */
+#orderedItemsTable th {
+    background-color: #ff6b6b; /* Pink background color for table header */
+    color: #fff; /* White text color */
+    padding: 10px; /* Add padding */
+}
+
+/* Style table rows */
+#orderedItemsTable td {
+    border: 1px solid #ddd; /* Add border */
+    padding: 8px; /* Add padding */
+}
+
+/* Style every other row with different background color */
+#orderedItemsTable tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light gray background color for even rows */
+}
+
+/* Style input and button */
+#enteredAmount {
+    margin-top: 10px; /* Add margin-top for spacing */
+    padding: 5px; /* Add padding */
+}
+
+button {
+    background-color: #ff6b6b; /* Pink button color */
+    color: #fff; /* White text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    cursor: pointer; /* Add cursor pointer */
+    border-radius: 5px; /* Add border radius */
+    margin-top: 10px; /* Add margin-top for spacing */
+}
+
+button:hover {
+    background-color: #ff8e8e; /* Lighter pink on hover */
+}
